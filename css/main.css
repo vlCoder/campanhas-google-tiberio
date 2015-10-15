@@ -65,6 +65,11 @@ body{
     cursor: pointer;
 }
 
+.mensais{position:fixed;top:29%;left:59%;z-index: 1001;}
+.fecharMensais{position:absolute;top:30%;left:78%;color:white}
+.fecharMensais i{font-size:1.5em}
+.fecharMensais:hover{color:white}
+
 .grande{width:1000px;max-width: 1000px!important;}
 
 .left{left:83.1%!important;}
